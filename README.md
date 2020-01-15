@@ -12,7 +12,8 @@ Aside from installing the script pack a webhook to a discord server will also be
 This can be created/obtained from going to Server Setting -> Webhooks in Discord.
 The link needed should look something like: https://discordapp.com/api/webhooks/YOURWEBHOOK
 
-More info on discord webhooks can be found at: https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+More info on discord webhooks can be found at: 
+https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 ## Use
 
